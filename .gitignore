@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44968f79d0f4147b2df16a8aef8e5cb6728282c2
 .DS_Store
 # Distribution / packaging
 .Python
