@@ -2,9 +2,11 @@
 # County Overdose Rates and Information Access/Education 
 ## by Mia Iseman & Alex Shropshire
 This is a fictional case study on real data by Alex Shropshire and Mia Iseman. U.S. Health and Human Services is not involved in any way.
+<br/>
 REPO: 
 https://github.com/MIAISEMAN/overdose_classification
-PRESENTATIN: https://github.com/MIAISEMAN/overdose_classification/blob/master/County%20Overdose%20Rates%20and%20Information%20Access_Education%20-%20Mia%20Iseman%20%26%20Alex%20Shropshire.pdf
+<br/>
+PRESENTATION: https://github.com/MIAISEMAN/overdose_classification/blob/master/County%20Overdose%20Rates%20and%20Information%20Access_Education%20-%20Mia%20Iseman%20%26%20Alex%20Shropshire.pdf
 
 
 ## Goal: Identify which U.S. counties are at risk of having a very high overdose fatality rate based on factors related to education and internet connectivity.
