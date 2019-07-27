@@ -19,7 +19,7 @@ The U.S. Department of Health and Human Services has a number of partnerships wi
 <center> 
 <img src="images/chart.png" alt="Age-Adjusted Overdose Death Rate 1968-2015, increasing dramatically since 2000">      
 <i> Source: The Numbers Behind the Opioid Crisis, Vice Chairman’s Staff of the Joint Economic Committee, Nov 2017 </i> 
-</center>
+</center>  
 
 Before U.S Health & Human Services can prevent overdoses, they need to see if and where a program could be effectively implemented. They must do their due diligence to discover factors corresponding with an overdose fatality. As part of this research, we investigate the relationship between overdose fatality rates at the county level based on county education and internet connectivity data. 
 
@@ -67,7 +67,7 @@ We looked at the regression coefficients (log odds) to assess feature impact in 
 ## Deployment
 When we first set out to perform this assessment, we thought it would be interesting to see the relationship between "controllable" factors such as the features seen here as opposed to features like race, sex, etc. which are less controllable by the government. However, there is no good reason not to include them in the modeling process, so we recommend using most features to improve the model, even if they end up being "inactionable" in terms of the program in the future.
 
-We recommend spening more time to see if there are other models that perform better than the ones we built in the time available to us.
+We recommend spending more time to see if there are other models that perform better than the ones we built in the time available to us.
 
 After the Health and Human Services Department decides on what thresholds suit their causes best, we recommend combining this data with a other features and reports to ensure they are make well-informed decisions around the very serious opioid epidemic. 
 
