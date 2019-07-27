@@ -1,6 +1,6 @@
+
 <center> <img src="images/title.png" alt="Predicting County Overdose Rates by Information Access/Education"> 
 </center>
-
 This is a case study by Mia Iseman & Alex Shropshire. U.S. Health and Human Services is not involved in our study, though the study was conducted with actual and relevant data.
 
 # Goal: Identify which U.S. counties are at risk of having a very high overdose fatality rate based on factors related to education and internet connectivity.
