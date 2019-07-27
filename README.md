@@ -18,8 +18,9 @@ The U.S. Department of Health and Human Services has a number of partnerships wi
 
 <center> 
 <img src="images/chart.png" alt="Age-Adjusted Overdose Death Rate 1968-2015, increasing dramatically since 2000">      
-<i> Source: The Numbers Behind the Opioid Crisis, Vice Chairman’s Staff of the Joint Economic Committee, Nov 2017 </i> 
+<i> Source: The Numbers Behind the Opioid Crisis, Vice Chairman’s Staff of the Joint Economic Committee, Nov 2017   </i> 
 </center>  
+
 
 Before U.S Health & Human Services can prevent overdoses, they need to see if and where a program could be effectively implemented. They must do their due diligence to discover factors corresponding with an overdose fatality. As part of this research, we investigate the relationship between overdose fatality rates at the county level based on county education and internet connectivity data. 
 
